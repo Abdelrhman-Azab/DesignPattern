@@ -1,3 +1,5 @@
+//Singleton : ensures a class has only one inistance and provides a global point of access to it
+
 class Singleton {
   //Private static inistance only that inistance we can create and user on the app
   static Singleton? _inistance;
